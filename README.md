@@ -5,8 +5,9 @@ Maior do brasil
 
 ## 1 Apresentação em Equipe
 
-<img width="1586" height="887" alt="image" src="https://github.com/user-attachments/assets/f5d8226c-bbed-47e7-9b0d-623e4a70c1b1" />
+<img width="1015" height="568" alt="image" src="https://github.com/user-attachments/assets/a5b8c3f4-efb2-48db-bf4f-43098ba2ef0e" />
 
+Mapa mental desenvolvido em torno do curso GPI, ressaltando e explicando os principais tópicos
 
 ## 2 Analise de Dados Exploratórios Relativos ao VTI de Cidade do Estado de SP
 
