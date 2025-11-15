@@ -34,8 +34,8 @@ Análise de dados abertos em formato CSV, posteriormente convertidos para XLSX, 
 <img width="1914" height="971" alt="6" src="https://github.com/user-attachments/assets/8724a34d-1097-42c5-8e60-290026b19608" />
 
 
-Foram criados gráficos interativos de análise visual utilizando dados reais de exportação do Comex Stat, obtidos em arquivos CSV referentes ao ano de 2025.
 
+Foram criados gráficos interativos de análise visual utilizando dados reais de exportação do Comex Stat, obtidos em arquivos CSV referentes ao ano de 2025.
 
 
 ## 5 Dados do Comex Stat Feitos em Power Bi  "Valor FOB"  e Regioes Escolhidas pelos Alunos.
@@ -43,12 +43,18 @@ Foram criados gráficos interativos de análise visual utilizando dados reais de
 <img width="1919" height="973" alt="7" src="https://github.com/user-attachments/assets/edb8be99-1c7f-4877-aa2b-a6bd217a985a" />
 
 
+
 Gráficos Criados de acordo com o CSV do Comex Stat, Valor FOB e Bandeiras; Mapa Visual e Bandeiras.
+
 
 
 ## 6 Dados em Phyton Tratados no Google Colab.
 
 <img width="1733" height="472" alt="9" src="https://github.com/user-attachments/assets/7b354a3a-8cf5-4863-838e-766fc67ae5fa" />
+
+
+
+Foram usados dados do site Kaggle, baixado em CSV. Tratados em Excel e Python pelo Google Colab Criando um Gráfico Linear.
 
 
 
