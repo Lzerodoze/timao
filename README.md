@@ -8,7 +8,7 @@ Maior do brasil
 <img width="1586" height="887" alt="image" src="https://github.com/user-attachments/assets/f5d8226c-bbed-47e7-9b0d-623e4a70c1b1" />
 
 
-## 2 Analise de Dados Exploratorios Relativos ao VTI de Cidaded do Estado de SP
+## 2 Analise de Dados Exploratórios Relativos ao VTI de Cidade do Estado de SP
 
 <img width="1914" height="748" alt="1" src="https://github.com/user-attachments/assets/61ed4e28-a807-44b1-bf2c-2f8fc113cdaa" />
 <img width="1919" height="775" alt="2" src="https://github.com/user-attachments/assets/133ec7d4-1c73-4122-8433-59fc27e34ff2" />
